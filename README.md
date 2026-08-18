@@ -48,5 +48,3 @@ The goal is to uncover patterns in audience behavior, identify top‑performing 
 -This project demonstrates how Python and data analytics can be applied to social media datasets to generate actionable insights. It highlights the importance of data cleaning, visualization, and statistical analysis in understanding audience behavior and optimizing content strategy.
 
 ---
-
-## 📂 Project Structure
